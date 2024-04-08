@@ -1,14 +1,15 @@
 # FT-Retrieval-Algorithms
 
-## To Do:
+## To Do
 
 #### Overleaf
 
 - [ ] Set up Overleaf file
 - [ ] Definitions and theorems
 - [ ] Phase retrieval algorithms
+- [ ] Discrete Fourier transform
 - [ ] Notations
-- [ ] Bibliography
+- [x] Bibliography
 - [ ] Figure for general iterative scheme
 - [ ] Figure for phase retrieval
 
